@@ -60,6 +60,3 @@ Feel free to add more queries, examples, or improvements.
 
 ---
 
-## 📄 License
-
-This project is for educational purposes.
