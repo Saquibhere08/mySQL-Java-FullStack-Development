@@ -83,29 +83,6 @@ It is ideal for beginners and intermediate learners who want to build strong fun
 
 ---
 
-## 📂 Project Structure (Sample)
-
-```
-java-sql-fullstack/
-│
-├── sql/
-│   ├── schema.sql
-│   ├── data.sql
-│   └── practice_queries.sql
-│
-├── src/
-│   ├── db/
-│   │   └── DBConnection.java
-│   ├── dao/
-│   ├── model/
-│   └── main/
-│
-├── README.md
-└── .gitignore
-```
-
----
-
 ## 📚 Who Is This For?
 
 - Beginners learning **Java Full Stack Development**
